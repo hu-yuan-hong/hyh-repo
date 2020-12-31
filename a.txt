@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 ls的txt
 zs也在
 zs：111111111111
 李四
 ssh -key
+=======
+hello github
+hello world
+>>>>>>> 7c1f36ad0a45ff5c767e8f7c90a8542d6d46f92e
